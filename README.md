@@ -10,10 +10,12 @@ The project demonstrates my ability to transform raw data into meaningful insigh
 ## Dashboard Preview
 
 ### Facebook Ad Performance Dashboard
-![Facebook Dashboard](Screenshot%202025-11-09%20205828.png)
+![Facebook Dashboard]<img width="1380" height="778" alt="Screenshot 2025-12-16 011744" src="https://github.com/user-attachments/assets/3f313c32-aee6-4374-a593-debc95d343e0" />
+
 
 ### Instagram Ad Performance Dashboard
-![Instagram Dashboard](Screenshot%202025-11-09%20205810.png)
+![Instagram Dashboard]()
+<img width="1380" height="785" alt="Screenshot 2025-12-16 011713" src="https://github.com/user-attachments/assets/9e4017cf-a68b-4810-85cd-f0094ed21607" />
 
 ---
 
